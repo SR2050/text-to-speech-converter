@@ -1,3 +1,8 @@
 pip install pyttsx3
 pip install tkinter
 pip install colorama
+git istall
+git clone https://github.com/SR2050/text-to-speech-converter
+cd texr-to-speech-converter
+ls
+and run it than its work
